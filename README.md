@@ -6,10 +6,11 @@ A Basic discord nitro generator (that works) with threading.
 2. run main.py
 
 # Todo
-- Add more proxy sources and unratelimited sources
-- Add colors to console and title showing information
-- Add webhook and notification notifier
-- Add instant nitro claimer
+- More proxy sources and unratelimited sources
+- Colors to console and title showing information | 50% done
+- Webhook and notification notifier
+- Instant nitro claimer
+- Generator version checker
 
 # Support
 - Discord server: https://discord.gg/Tct8fUVnZm
