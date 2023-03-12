@@ -7,7 +7,7 @@ A Basic discord nitro generator (that works) with threading.
 
 # Todo
 - Add more proxy sources and unratelimited sources
-- Add colors to console
+- Add colors to console and title showing information
 - Add webhook and notification notifier
 - Add instant nitro claimer
 
